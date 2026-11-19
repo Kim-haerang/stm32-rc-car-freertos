@@ -1,0 +1,14 @@
+/firmware/Debug/
+/firmware/Release/
+.metadata/
+*.o
+*.d
+*.su
+*.cyclo
+*.elf
+*.hex
+*.bin
+*.map
+*.list
+.DS_Store
+Thumbs.db
